@@ -1,0 +1,8 @@
+./assets/css/style.css
+./assets/images/banner.png
+./assets/images/logo.png
+./assets/js/script.js
+./fichiers.txt
+./index.html
+./pages/about.html
+./pages/contact.html
